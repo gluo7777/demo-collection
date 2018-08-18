@@ -20,7 +20,7 @@
 	<Loggers>
 		<!-- Trace enabled for demo.OnlyTraceMe, but ERROR for others -->
 		<!-- additivity="false" disable combining appender output -->
-		<Logger name="demo.OnlyTraceMe" level="TRACE"
+		<Logger name="demo.Demo" level="TRACE"
 			additivity="false">
 			<AppenderRef ref="STDOUT" />
 		</Logger>
