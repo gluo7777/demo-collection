@@ -24,5 +24,6 @@
 		<module>dynamic-web-module-example</module>
 		<module>logback4j2-demo</module>
     <module>m2e-wtp-demo</module>
-  </modules>
+    <module>algorithms</module>
+	</modules>
 </project>
